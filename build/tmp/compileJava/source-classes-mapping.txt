@@ -1,2 +1,4 @@
+andreea/s/shopping/Sample.java
+ andreea.s.shopping.Sample
 andreea/s/shopping/Main.java
  andreea.s.shopping.Main
